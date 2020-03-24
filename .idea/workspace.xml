@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="071f6a85-9dec-46b5-89ab-9b8be853b277" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DjangoFirstProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XE1zKE5ofiK3Ef2fXpp8C5GiFP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="DjangoFirstProject" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="DjangoFirstProject" />
+      </console-settings>
+    </option>
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.automation">
+    <configuration name="automation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DjangoFirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/automation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for maintest.Maintest.test_open" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DjangoFirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing/integrate/fixtures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;maintest.Maintest.test_open&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Testing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DjangoFirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testing&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in maintest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DjangoFirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing/integrate/fixtures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testing/integrate/fixtures/maintest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.automation" />
+        <item itemvalue="Python tests.Unittests in maintest.py" />
+        <item itemvalue="Python tests.Unittests for maintest.Maintest.test_open" />
+        <item itemvalue="Python tests.Unittests in Testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="071f6a85-9dec-46b5-89ab-9b8be853b277" name="Default Changelist" comment="" />
+      <created>1580596700977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580596700977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Notifications" timestamp="1584985647249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1584985647249" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584891717492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584891717492" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584977601846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584977601846" />
+    <state x="438" y="68" key="#xdebugger.evaluate" timestamp="1584899650925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="68" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1584899650925" />
+    <state width="751" height="466" key="DebuggerActiveHint" timestamp="1584973612042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="751" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584973612042" />
+    <state x="797" y="117" key="FileChooserDialogImpl" timestamp="1584898494289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="797" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584898494289" />
+    <state width="1345" height="250" key="GridCell.Tab.0.bottom" timestamp="1585062531679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585062531679" />
+    <state width="1345" height="250" key="GridCell.Tab.0.center" timestamp="1585062531679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585062531679" />
+    <state width="1345" height="250" key="GridCell.Tab.0.left" timestamp="1585062531679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585062531679" />
+    <state width="1345" height="250" key="GridCell.Tab.0.right" timestamp="1585062531679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585062531679" />
+    <state width="1345" height="250" key="GridCell.Tab.1.bottom" timestamp="1585062530390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585062530390" />
+    <state width="1345" height="250" key="GridCell.Tab.1.center" timestamp="1585062530389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585062530389" />
+    <state width="1345" height="250" key="GridCell.Tab.1.left" timestamp="1585062530389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585062530389" />
+    <state width="1345" height="250" key="GridCell.Tab.1.right" timestamp="1585062530389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="250" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585062530389" />
+    <state x="179" y="7" key="SettingsEditor" timestamp="1584985621618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="179" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584985621618" />
+    <state x="375" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584904033694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584904033694" />
+    <state x="254" y="101" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584985255637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="101" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1584985255637" />
+    <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584901978238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="276" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1584901978238" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing/integrate/fixtures/maintest.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/extraction.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transformation.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/transformation.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/extraction.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
