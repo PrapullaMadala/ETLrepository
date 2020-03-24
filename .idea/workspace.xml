@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071f6a85-9dec-46b5-89ab-9b8be853b277" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing/integrate/fixtures/maintest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/integrate/fixtures/maintest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing/integrate/testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/automation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/loading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/transformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -212,10 +206,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="250" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state x="179" y="7" key="SettingsEditor" timestamp="1585081076575">
+    <state x="179" y="7" key="SettingsEditor" timestamp="1585088185979">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="179" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585081076575" />
+    <state x="179" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585088185979" />
     <state x="375" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1584904033694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
