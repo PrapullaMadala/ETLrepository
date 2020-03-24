@@ -26,13 +26,13 @@ class Loading:
                                             growthrate real
                                             );'''
         countrytable = '''CREATE TABLE IF NOT EXISTS COUNTRY(
-                                                        countrycode text NOT NULL,
-                                                        countryname text,
-                                                        country_region text NOT NULL,
-                                                        city_name text NOT NULL,
-                                                        city_population integer,
-                                                        language text 
-                                                        );'''
+                                           countrycode text NOT NULL,
+                                           countryname text,
+                                           country_region text NOT NULL,
+                                           city_name text NOT NULL,
+                                           city_population integer,
+                                           language text
+                                           );'''
         if kwargs['database'] == 'SQLite3':
             self.conn = self.connectdatabase()
             print('database connection successful')
@@ -52,7 +52,8 @@ class Loading:
             charset = dbdetails['CHARSET']
             mysqldb = None
             try:
-                uri = 'mysql+mysqldb://' + parse.quote_plus(user) + ':' + parse.quote_plus(password) + '@' + host + '/' \
+                uri = 'mysql+mysqldb://' + parse.quote_plus(user) + ':'\
+                      + parse.quote_plus(password) + '@' + host + '/' \
                       + database + '?charset=' + charset
                 engine = create_engine(uri)
                 mysqldb = engine.connect()
@@ -95,12 +96,13 @@ class Loading:
         if isinstance(collection, pd.DataFrame):
             print('collection is dataframe')
             try:
-                collection.to_sql(tablename, self.conn, if_exists='append', index=False)
+                collection.to_sql(tablename, self.conn, if_exists='append',
+                                  index=False)
                 print('data inserted successfully')
             except ConnectionError as e:
                 print(e)
 
     def updatedf(self, dataframe, tablename):
-        dataframe.to_sql(tablename, self.conn, if_exists='replace', index=False)
+        dataframe.to_sql(tablename, self.conn, if_exists='replace',
+                         index=False)
         print('updated')
-

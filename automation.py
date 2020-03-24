@@ -1,4 +1,3 @@
-import json
 from extraction import Extract
 import os.path
 import json
@@ -21,7 +20,7 @@ def getsources(etl_sources):
             print(data_set)
             for data in data_set:
                 print(data)
-                automate_obj = Automate(data_source, data_set, data)
+                Automate(data_source, data_set, data)
     else:
         print('No resources')
 

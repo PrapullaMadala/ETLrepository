@@ -71,7 +71,8 @@ class Extract:
             database = dbdetails['NAME']
             charset = dbdetails['CHARSET']
             try:
-                uri = 'mysql+mysqldb://' + user + ':' + password + '@' + host + '/' + database + '?charset=' + charset
+                uri = 'mysql+mysqldb://' + user + ':' + password + '@' \
+                      + host + '/' + database + '?charset=' + charset
                 engine = create_engine(uri)
                 mysqldb = engine.connect()
                 print('connection successful')
@@ -90,6 +91,5 @@ class Extract:
             print(df)
             return df
 
-#ext = Extract()
-#ext.getDatabase('SQLite3')
-
+# ext = Extract()
+# ext.getDatabase('SQLite3')

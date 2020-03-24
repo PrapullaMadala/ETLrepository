@@ -1,6 +1,5 @@
-import unittest
 import unittest.mock
-from unittest.mock import Mock, MagicMock, patch, mock_open
+from unittest.mock import patch, mock_open
 from automation import main_open
 import automation
 from io import StringIO
@@ -54,6 +53,3 @@ class Maintest(unittest.TestCase):
         print(error)
         print(self.assertIsNone(error, 'error occured'))
         print('success')
-
-
-
