@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="071f6a85-9dec-46b5-89ab-9b8be853b277" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing/integrate/fixtures/maintest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/integrate/fixtures/test_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/integrate/fixtures/test_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/integrate/test_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing/integrate/fixtures/testdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/integrate/fixtures/test_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/automation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,12 @@
     </option>
     <option name="myUseExistingConsole" value="true" />
   </component>
-  <component name="RunManager" selected="Python.automation">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prapu\PycharmProjects\DjangoFirstProject\Testing\integrate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in Testing">
     <configuration name="automation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DjangoFirstProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for Testing.integrate.fixtures.test_main.Maintest.test_open" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Testing.integrate.test_main.Maintest.test_open" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="DjangoFirstProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +84,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Testing.integrate.fixtures.test_main.Maintest.test_open&quot;" />
+      <option name="_new_target" value="&quot;Testing.integrate.test_main.Maintest.test_open&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -105,16 +112,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testing/integrate/fixtures/test_main.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testing/integrate/test_main.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.automation" />
-        <item itemvalue="Python tests.Unittests in test_main.py" />
-        <item itemvalue="Python tests.Unittests for Testing.integrate.fixtures.test_main.Maintest.test_open" />
         <item itemvalue="Python tests.Unittests in Testing" />
+        <item itemvalue="Python tests.Unittests in test_main.py" />
+        <item itemvalue="Python.automation" />
+        <item itemvalue="Python tests.Unittests for Testing.integrate.test_main.Maintest.test_open" />
       </list>
     </recent_temporary>
   </component>
@@ -175,42 +182,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="797" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584898494289" />
-    <state width="1345" height="250" key="GridCell.Tab.0.bottom" timestamp="1585080960175">
+    <state width="1345" height="281" key="GridCell.Tab.0.bottom" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state width="1345" height="250" key="GridCell.Tab.0.center" timestamp="1585080960175">
+    <state width="1345" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.0.center" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state width="1345" height="250" key="GridCell.Tab.0.left" timestamp="1585080960172">
+    <state width="1345" height="281" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.0.left" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585080960172" />
-    <state width="1345" height="250" key="GridCell.Tab.0.right" timestamp="1585080960175">
+    <state width="1345" height="281" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.0.right" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state width="1345" height="250" key="GridCell.Tab.1.bottom" timestamp="1585080960176">
+    <state width="1345" height="281" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.1.bottom" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585080960176" />
-    <state width="1345" height="250" key="GridCell.Tab.1.center" timestamp="1585080960175">
+    <state width="1345" height="281" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.1.center" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state width="1345" height="250" key="GridCell.Tab.1.left" timestamp="1585080960175">
+    <state width="1345" height="281" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.1.left" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state width="1345" height="250" key="GridCell.Tab.1.right" timestamp="1585080960175">
+    <state width="1345" height="281" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state width="1345" height="281" key="GridCell.Tab.1.right" timestamp="1585168662750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="250" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585080960175" />
-    <state x="179" y="7" key="SettingsEditor" timestamp="1585088185979">
+    <state width="1345" height="281" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585168662750" />
+    <state x="179" y="7" key="SettingsEditor" timestamp="1585152819048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="179" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585088185979" />
+    <state x="179" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585152819048" />
     <state x="375" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1585147967246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -232,11 +239,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Testing/integrate/fixtures/test_main.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/extraction.py</url>
           <line>64</line>
           <option name="timeStamp" value="61" />
@@ -255,6 +257,26 @@
           <url>file://$PROJECT_DIR$/extraction.py</url>
           <line>82</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/automation.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing/integrate/test_main.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing/integrate/test_main.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Testing/integrate/test_main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

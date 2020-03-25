@@ -27,7 +27,10 @@ def getsources(etl_sources):
 
 def main_open(json_file):
 
-    if os.path.isfile(json_file) is True:
+    if os.path.exists(json_file) is True:
+        res = os.path.exists(json_file)
+        print(res)
+        print(os.path.getsize(json_file))
         print(os.path.isfile(json_file))
         print(json_file)
         print("Control in automation.py at ln:31")
